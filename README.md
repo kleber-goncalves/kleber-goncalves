@@ -1,7 +1,8 @@
 # ⚡ Terminal de Operações // [SEU NOME]
 
+## 📊 Matriz de Atividade (3D Contribution Graph)
 <p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ## 📊 Matriz de Atividade (3D Contribution Graph)
