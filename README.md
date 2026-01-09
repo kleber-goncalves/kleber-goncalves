@@ -1,12 +1,12 @@
 # ⚡ Terminal de Operações // [SEU NOME]
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicker&color=00d1ff&height=230&section=header&text=Full%20Stack%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=38&theme=tokyonight" width="100%" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </p>
 
 ## 📊 Matriz de Atividade (3D Contribution Graph)
 <p align="center">
-  <img src="https://github-profile-3d-contrib-candidate.vercel.app/api?username=SEU_USUARIO&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-3d-contrib-candidate.vercel.app/api?username=kleber-goncalves&theme=tokyonight" width="100%" />
 </p>
 
 ---
@@ -47,10 +47,10 @@
 
 <p align="center">
   <a href="https://github.com/SEU_USUARIO/PROJETO_01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO_1&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kleber-goncalves&repo=NOME_DO_REPOSITORIO_1&theme=tokyonight" />
   </a>
   <a href="https://github.com/SEU_USUARIO/PROJETO_02">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO_2&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kleber-goncalves&repo=NOME_DO_REPOSITORIO_2&theme=tokyonight" />
   </a>
 </p>
 
@@ -59,12 +59,12 @@
 ## 📈 Diagnóstico de Performance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleber-goncalves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-goncalves&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleber-goncalves&theme=tokyonight" width="100%" />
 </p>
 
 ---
@@ -91,5 +91,5 @@
 </p>
 
 <p align="center">
-  <sub>Operação executada por <b>[SEU NOME]</b>. © 2026</sub>
+  <sub>Operação executada por <b>Kleber Gonçalves</b>. © 2026</sub>
 </p>
