@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFFFFF&reversal=false&textBg=false" />
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-green.svg" width="100%" />
@@ -56,3 +57,6 @@
 <p align="center">
   <sub>Operação executada por <b>Kleber Gonçalves</b>. © 2026</sub>
 </p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFFFFF&reversal=false&textBg=false&section=footer" />
