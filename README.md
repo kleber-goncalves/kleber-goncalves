@@ -1,73 +1,34 @@
-# ⚡ Terminal de Operações // [SEU NOME]
 
-## 📊 Matriz de Atividade (3D Contribution Graph)
 <p align="center">
   <img src="profile-3d-contrib/profile-night-green.svg" width="100%" />
 </p>
 
-## 📊 Matriz de Atividade (3D Contribution Graph)
-<p align="center">
-  <img src="https://github-profile-3d-contrib-candidate.vercel.app/api?username=kleber-goncalves&theme=tokyonight" width="100%" />
-</p>
-
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kleber-goncalves&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kleber-goncalves&theme=dark&utcOffset=8) |
+ | :-: | :-: |
 ---
 
 ## 🛠 Tech Stack (Módulos Ativos)
 
 ### 💻 Frontend & Styling
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](https://skillicons.dev)
+
 </p>
 
 ### ⚙️ Backend & Infra
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vite,vercel,supabase,express,fastapi,npm)](https://skillicons.dev)
+  
 </p>
 
 ### 🔧 Workspace & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma,github,git,obsidian)](https://skillicons.dev)
+  
 </p>
-
----
-
-## 🏆 Projetos em Destaque (Auto-Sync)
-
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO/PROJETO_01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kleber-goncalves&repo=NOME_DO_REPOSITORIO_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/SEU_USUARIO/PROJETO_02">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kleber-goncalves&repo=NOME_DO_REPOSITORIO_2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 📈 Diagnóstico de Performance
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleber-goncalves&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-goncalves&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleber-goncalves&theme=tokyonight" width="100%" />
-</p>
-
 
 ---
 
