@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFFFFF&reversal=false&textBg=false" />
 
+**<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&vCenter=true&width=543&lines=Hello+word+!!;Sou+Analista+de+Sistemas+Full+Stack" alt="Typing SVG" /></a>**
+
 <p align="center">
   <img src="profile-3d-contrib/profile-night-green.svg" width="100%" />
 </p>
