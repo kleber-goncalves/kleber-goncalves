@@ -37,7 +37,7 @@
 
 ---
 
-## 🌐 Conexão Neural (Redes Sociais)
+## 🌐 Redes Sociais
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kleber-goncalve-s/" target="_blank">
