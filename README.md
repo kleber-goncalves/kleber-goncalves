@@ -10,7 +10,7 @@
  | :-: | :-: |
 ---
 
-## 🛠 Tech Stack (Módulos Ativos)
+## 🛠 Tech Stack
 
 ### 💻 Frontend & Styling
 <p align="left">
