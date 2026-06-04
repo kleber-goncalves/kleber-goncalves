@@ -15,7 +15,7 @@
 ### 💻 Frontend & Styling
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,nextjs,vite)](https://skillicons.dev)
 <img src="https://cdn.simpleicons.org/greensock/88CE02" width="50" height="50" /> <img src="https://img.shields.io/badge/-88CE02?style=square&logo=greensock&logoColor=white" height="60" width="60">
 
 </p>
@@ -23,14 +23,14 @@
 ### ⚙️ Backend & Infra
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vite,vercel,supabase,express,fastapi,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,fastapi,npm,prisma,supabase,sqlite,postgres,vercel,netlify)](https://skillicons.dev)
   
 </p>
 
 ### 🔧 Workspace & Tools
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma,github,git,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma,git,github,obsidian,stackoverflow)](https://skillicons.dev)
 <img src="https://cdn.simpleicons.org/trello/0079BF" width="48" height="48" />
   
 </p>
