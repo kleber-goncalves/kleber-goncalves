@@ -23,7 +23,7 @@
 ### ⚙️ Backend & Infra
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,fastapi,npm,prisma,supabase,sqlite,postgres,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,fastapi,npm,prisma,supabase,sqlite,postgres,vercel,netlify)](https://skillicons.dev)
   
 </p>
 
